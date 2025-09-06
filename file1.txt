@@ -1,1 +1,3 @@
+#Welcome to Git
 #Hey its me Luka-dev
+#This is coming from terasky-dev
